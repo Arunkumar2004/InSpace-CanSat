@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+venv/
+.envrc
+.DS_Store
+.idea/
+.vscode/
+assets/logo.png
